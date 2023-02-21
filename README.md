@@ -7,7 +7,20 @@
 
 
 
-
+## require
+```
+pytorch (cuda=11.7)
+torchvision
+torchmetrics 
+timm
+einops
+cython
+scikit-image
+opencv-python 
+scikit-learn 
+transformers
+tqdm
+```
 
 
 ## usage
