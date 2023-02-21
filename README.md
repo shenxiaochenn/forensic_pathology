@@ -46,7 +46,7 @@ python adaptive_pool_train.py --epochs=50 --checkpoint=xxx  --size=xxxx --batch_
 ```
 ### visulasition
 ****
-![iamge1](https://github.com/shenxiaochenn/forensic_pathology/blob/master/fig/20X_kidne80_0013_map.png)
+![iamge1](https://github.com/shenxiaochenn/forensic_pathology/blob/master/fig/20X_kidne80_0013_map.png 400*300)
 ****
 ## reference
 * [vicreg](https://github.com/facebookresearch/vicreg)
