@@ -42,3 +42,5 @@ CUDA_VISIBLE_DEVICES=xxxx python -m torch.distributed.launch --nproc_per_node=8 
 when train multiple instance learning, you must have a backbone checkpoint, and also a small batch_size is required
 python adaptive_pool_train.py --epochs=50 --checkpoint=xxx  --size=xxxx --batch_size=xxx
 ```
+## reference
+* [vicreg](https://github.com/facebookresearch/vicreg)
