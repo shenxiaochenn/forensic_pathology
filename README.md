@@ -44,3 +44,6 @@ python adaptive_pool_train.py --epochs=50 --checkpoint=xxx  --size=xxxx --batch_
 ```
 ## reference
 * [vicreg](https://github.com/facebookresearch/vicreg)
+* [SupContrast](https://github.com/HobbitLong/SupContrast)
+* [LEWEL](https://github.com/LayneH/LEWEL)
+* [barlowtwins](https://github.com/facebookresearch/barlowtwins)
