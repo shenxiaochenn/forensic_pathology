@@ -257,7 +257,7 @@ class BYOL(nn.Module):
         loss_cov = (cov_loss_one + cov_loss_two).mean() * self.loss_weight_theta
         loss = (loss_ins + loss_obj+loss_cov+loss_std) / 4
 
-        return loss, loss_ins, loss_cov
+        return loss, loss_ins, loss_obj,loss_std,loss_cov
 
 
 
