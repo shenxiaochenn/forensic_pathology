@@ -1,6 +1,6 @@
 # forensic_pathology
 ****
-![image](https://github.com/shenxiaochenn/forensic_pathology/blob/master/fig/fig1.pdf)
+![image](https://github.com/shenxiaochenn/forensic_pathology/blob/master/fig/fig1.PNG)
 ****
 
 
